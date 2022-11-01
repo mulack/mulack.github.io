@@ -1,0 +1,7 @@
+html {
+    font-size: 250;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*background-image: url("brasil.jpg");*/
+    background-color: #00c753;
+    background-image: linear-gradient(green, yellow);
+}
